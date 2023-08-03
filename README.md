@@ -10,7 +10,8 @@
 </div>
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
+<div align="center">
+	<p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonmin9211)](https://solved.ac/wonmin9211)
 </div>
