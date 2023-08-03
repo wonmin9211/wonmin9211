@@ -12,8 +12,7 @@
 <div align=center>
   <h3>🏆 Baekjoon solved rank 🏆</h3>
 </div>
-[![Solved.ac 
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonmin9211)](https://solved.ac/wonmin9211)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonmin9211)](https://solved.ac/wonmin9211)<br/>
 
   
 <!--
