@@ -9,13 +9,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 </div>
 
-<br>
-<div align="center">
-	<h3>🏆 Baekjoon solved rank 🏆</h3>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonmin9211)](https://solved.ac/wonmin9211)
-	<img src="http://mazandi.herokuapp.com/api?handle=wonmin9211&theme=warm"/>
-</div>
-<br>
+## 🏆 Baekjoon solved rank 🏆
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonmin9211)](https://solved.ac/wonmin9211)
+<img src="http://mazandi.herokuapp.com/api?handle=wonmin9211&theme=warm"/>
   
 <!--
 
