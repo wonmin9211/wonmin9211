@@ -9,7 +9,7 @@
 
 ## 🏆 Baekjoon solved rank 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonmin9211)](https://solved.ac/wonmin9211)
-<img src="http://mazandi.herokuapp.com/api?handle=wonmin9211&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=wonmin9211&theme=warm)
   
 <!--
 
