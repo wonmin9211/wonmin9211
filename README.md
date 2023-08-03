@@ -14,8 +14,9 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wonmin9211&theme=warm)
 
 # 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonmin9211&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=wonmin9211&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonmin9211&layout=compact">
+
 </div>
 
 <!--
