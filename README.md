@@ -12,8 +12,8 @@
 <br>
 <div align="center">
 	<h3>🏆 Baekjoon solved rank 🏆</h3>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonmin9211)](https://solved.ac/wonmin9211)
-	<img src="http://mazandi.herokuapp.com/api?handle={wonmin9211}&theme=warm"/>
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonmin9211)](https://solved.ac/wonmin9211)
+	<img src="http://mazandi.herokuapp.com/api?handle=wonmin9211&theme=warm"/>
 </div>
 <br>
   
