@@ -1,5 +1,10 @@
 <div align="center">
-  
+
+## 💻 Blog 💻
+<div style="display:flex; flex-direction:row;">
+  <a href="https://wonmin.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
+</div><br>
+
 ## ✏️ Studying ✏️
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
